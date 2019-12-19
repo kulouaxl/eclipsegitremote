@@ -1,6 +1,6 @@
 package cn.smbms.pojo;
 //下载远程
-//Hello World
+//Hello Worldbbbbb
 import java.util.Date;
 
 public class User {
